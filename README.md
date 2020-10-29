@@ -1,4 +1,6 @@
 ## product-app
+### data structures
 classic java project - demo product attributes structure
 
-## implemented getValue(n) - fibon
+### getValue(n)
+implemented getValue(n) - fibon
